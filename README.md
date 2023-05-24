@@ -8,7 +8,7 @@ Step-1
 
 Step-2
 
-If you write "!" this character tto the input, this program will give you a ready-made "charset" part of the HTML code.
+If you write "!" this character tto the input, this program will give you a ready-made "DOCTYPE" part of the HTML code.
 
 ![image](https://github.com/definem/code-to-interface/assets/120991965/03fd6cdd-68bf-4bff-a610-75505d622946)
 
